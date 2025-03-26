@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Adhithyan
+## Hi there 👋 It's me Adhithyan M S
                                                
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me :
