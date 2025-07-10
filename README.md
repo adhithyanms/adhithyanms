@@ -17,5 +17,5 @@
 
 
 ### 💻 Workspace Spec:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adhi_M_S?theme=dark&font=Marmelad&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hari_s_h_?theme=dark&font=Marmelad&ext=heatmap)
 
